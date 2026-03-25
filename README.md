@@ -17,7 +17,7 @@ Order records
 Payment information
 Quantity purchased per order
 Analysis Queries Performed
-The following business insights were generated using SQL queries:
+The following business insights were generated using SQL queries-
 1️⃣ Total Revenue
 Calculated overall revenue from the payments table using aggregation functions.
 2️⃣ Revenue by Product
